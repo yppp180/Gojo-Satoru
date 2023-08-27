@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['9647738412302']
-global.premium = ['9647738412302']
-global.ownernomer = '9647738412302'
-global.ownername = 'Megumu - Bot 🥀'
-global.botname = 'Megumu - bot 🥀'
-global.footer = 'Megumu - Bot '
+global.owner = ['9647738412307']
+global.premium = ['9647738412307']
+global.ownernomer = '9647738412307'
+global.ownername = 'Megume - Bot 🥀'
+global.botname = 'Megume - bot 🥀'
+global.footer = 'Megume - Bot '
 global.ig = 'https://github.com/nexusNw'
 global.region = 'IRAQ, South IRAQ , Basra'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
